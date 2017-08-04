@@ -13,6 +13,7 @@ The 20 smallest Hamming numbers are given in example test fixture.
 
 Your code should be able to compute all of the smallest 5,000 (Clojure: 2000) Hamming numbers without timing out.
 */
+
 public class Hamming {
 
    public static long hamming(int k){
