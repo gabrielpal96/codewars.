@@ -1,9 +1,7 @@
 /*
 https://www.codewars.com/kata/526d84b98f428f14a60008da
 A Hamming number is a positive integer of the form 2i3j5k, for some non-negative integers i, j, and k.
-
 Write a function that computes the nth smallest Hamming number.
-
 Specifically:
 
 The first smallest Hamming number is 1 = 203050
